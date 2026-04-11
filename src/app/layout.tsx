@@ -5,20 +5,20 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Dunkin' Gift Card",
+  title: "Target Gift Card",
   description: "Participate in the Dunkin' Rewards program and get a chance to claim a $1000 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/VVyQDtA.png", type: "image/png" },
+      { url: "https://i.imgur.com/9nTkTvt.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/VVyQDtA.png",
+    shortcut: "https://i.imgur.com/9nTkTvt.png",
     apple: [
-      { url: "https://i.imgur.com/VVyQDtA.png", sizes: "500x500", type: "image/png" },
+      { url: "https://i.imgur.com/9nTkTvt.png", sizes: "500x500", type: "image/png" },
     ],
     other: [
       {
         rel: "apple-touch-icon-precomposed",
-        url: "https://i.imgur.com/VVyQDtA.png",
+        url: "https://i.imgur.com/9nTkTvt.png",
       },
     ],
   },

@@ -48,7 +48,7 @@ const HeroBranding = () => {
             {/* Main Card Image */}
             <div className="relative z-10 w-[240px] sm:w-[320px] mx-auto transition-transform duration-500 group-hover:scale-105">
               <img 
-                src="https://i.imgur.com/Yxqd6Yn.png" 
+                src="https://i.imgur.com/vaGNOTi.png" 
                 alt="Marshalls $1000 Gift Card" 
                 className="w-full h-auto"
               />
@@ -66,20 +66,20 @@ const HeroBranding = () => {
         <div className="relative">
             <h1 className="text-[21px] md:text-[27px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
             <span className="text-[#182C54]">Unlock</span>
-            <span className="text-[#ea6c02]">Dunkin' Rewards</span>
+            <span className="text-[#cc0000]">Target Rewards</span>
             <div className="flex items-center -ml-1">
-              <Gift className="w-6 h-6 text-[#ea6c02] fill-transparent" />
+              <Gift className="w-6 h-6 text-[#cc0000] fill-transparent" />
             </div>
           </h1>
         </div>
         
         {/* Sub-headline */}
         <div className="flex items-center justify-center gap-2 w-full text-center">
-          <Sparkles className="w-3.5 h-3.5 text-[#ea6c02] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#cc0000] shrink-0 animate-sparkle" />
           <p className="text-[13px] sm:text-sm md:text-[15px] text-[#182C54]/90 font-medium leading-relaxed whitespace-nowrap font-poppins">
-            Here&apos;s how to claim your <span className="text-[#ea6c02] font-bold">$100 gift card</span>
+            Here&apos;s how to claim your <span className="text-[#cc0000] font-bold">$500 gift card</span>
           </p>
-          <Sparkles className="w-3.5 h-3.5 text-[#ea6c02] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#cc0000] shrink-0 animate-sparkle" />
         </div>
       </div>
     </div>
