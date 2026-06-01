@@ -17,21 +17,21 @@ const AnimatedBackground = () => {
 
       <div className="fixed inset-0 pointer-events-none overflow-hidden opacity-15">
           <Image
-            src="https://i.imgur.com/4J8Dd5p.png"
+            src="https://i.imgur.com/aJmrmGk.png"
             alt=""
             width={100}
             height={100}
             className="absolute top-20 left-10 w-17 h-17 object-contain animate-float-gentle delay-1000"
           />
           <Image
-            src="https://i.imgur.com/IOQ3yUp.png"
+            src="https://i.imgur.com/5JdnqBl.png"
             alt=""
             width={160}
             height={160}
             className="absolute top-32 right-10 w-20 h-20 object-contain animate-float-gentle"
           />
           <Image
-            src="https://i.imgur.com/8s4cqlv.png"
+            src="https://i.imgur.com/zGHWZ7O.png"
             alt=""
             width={160}
             height={160}
